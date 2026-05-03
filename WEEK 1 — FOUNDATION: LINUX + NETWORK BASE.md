@@ -1,7 +1,8 @@
 # Build the 30-day system engineering mission.
 
 
-## WEEK 1 — FOUNDATION: LINUX + NETWORK BASE
+## Part 1 — FOUNDATION: LINUX + NETWORK BASE
+STEP-BY-STEP (NO GAPS)
 
 ## Day 1 — Lab Setup (Your “Data Center”)
 
