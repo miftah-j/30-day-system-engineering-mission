@@ -7,13 +7,21 @@
 
 ### Tasks
 
-**Install virtualization (VirtualBox / VMware)**
+Create Your Lab (DO NOT RUSH)
 
-**Create 3 VMs:**
+**Goal**
 
--   lb-1 → 192.168.56.10 
--   app-1 → 192.168.56.11
--   db-1 → 192.168.56.12
+3 machines that can talk to each other.
+
+**Action**
+
+Install virtualization (VirtualBox / VMware)
+
+Create 3 VMs:
+
+-   lb-1 → 192.168.100.101
+-   app-1 → 192.168.100.102
+-   db-1 → 192.168.100.103
 
 **Commands**
 
@@ -176,3 +184,13 @@ Commit:
     git commit -m "Initial infra setup"
 
 ----------
+
+## Day 7 — Review + Break Day
+
+Break:
+
+-   Stop networking
+-   Change IP incorrectly
+-   Disable SSH
+
+Fix everything.
